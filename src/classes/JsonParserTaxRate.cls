@@ -1,6 +1,6 @@
 public class JsonParserTaxRate{
  public JsonParserTaxRate(){
- }
+ }//test comments
     public QueryResponse QueryResponse;
     public class TaxRate{
         public String Id;
